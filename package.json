@@ -1,0 +1,21 @@
+{
+  "name": "vigerdark",
+  "displayName": "VigerDark",
+  "description": "Fork of the Viger theme, but even blacker",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VigerDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VigerDark-color-theme.json"
+      }
+    ]
+  }
+}
