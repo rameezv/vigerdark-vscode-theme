@@ -3,6 +3,7 @@
   "displayName": "VigerDark",
   "description": "Fork of the Viger theme, but even blacker",
   "version": "0.0.1",
+  "repository": "https://github.com/rameezv/vigerdark-vscode-theme.git",
   "engines": {
     "vscode": "^1.83.0"
   },
